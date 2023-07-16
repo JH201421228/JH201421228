@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
+  
 ![JuHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical)
 
 
@@ -24,4 +26,6 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact&theme=dark)
+
+
 </div>
