@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 ![JuHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical)
-</div>
 
-<div align="center">
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=741u741)](https://solved.ac/741u741)
-</div>
 
-<div align="center">
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact&theme=dark)
 </div>
