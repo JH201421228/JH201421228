@@ -38,7 +38,7 @@
 <br>
 
 <h3 align="center">📫 Languages 📫</h3>
-<div aling="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact">
 </div>
 
