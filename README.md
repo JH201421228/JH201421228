@@ -28,9 +28,23 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<h3 align="center">📚 Studying 📚</h3>
+<br>
+
+<h3 align="center">📚 Git Stats 📚</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical" alt="GitHub stats">
 </div>
 
+<br>
 
+<h3 align="center">📫 Languages 📫</h3>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact">
+</div>
+
+<br>
+
+<h3 align="center">✨ algorithm ✨</h3>
+<div>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj={741u741@naver.com}">
+</div>
