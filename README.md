@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=react&color=auto&height=300&section=header&text=JH%20Git&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JH%20Git&fontSize=90" />
 </div>
 
 <!--내용 부분-->
