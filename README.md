@@ -38,13 +38,13 @@
 <br>
 
 <h3 align="center">📫 Languages 📫</h3>
-<div>
+<div aling="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact">
 </div>
 
 <br>
 
 <h3 align="center">✨ algorithm ✨</h3>
-<div>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj={741u741@naver.com}">
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=741u741">
 </div>
