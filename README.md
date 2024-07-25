@@ -27,3 +27,5 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical)
