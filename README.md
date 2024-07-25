@@ -30,5 +30,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical" alt="GitHub stats">
 </div>
+
+
