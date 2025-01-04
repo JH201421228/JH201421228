@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=61DAFB" /> &nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Assembly-525252.svg?style=for-the-badge&logo=firebase&logoColor=61DAFB" /> &nbsp
+</div>
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
