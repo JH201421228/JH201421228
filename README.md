@@ -20,10 +20,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Assembly-525252.svg?style=for-the-badge&logo=firebase&logoColor=61DAFB" /> &nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54" />&nbsp;
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=hackaday&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffd35b" />&nbsp;
 </div>
 
 <br>
