@@ -51,9 +51,7 @@
 
 <br>
 
-<!--
 <h3 align="center">✨ algorithm ✨</h3>
 <div align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=741u741">
 </div>
--->
