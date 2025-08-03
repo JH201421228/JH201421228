@@ -12,7 +12,6 @@
 🧠 Passionate about <b>AI, real-time systems, and scalable software solutions</b>  
 🛠 Skilled in <b>React, Spring Boot, Firebase, Python, C++, Docker, FastAPI</b>  
 🌏 Languages: Korean (Native), English (Intermediate)  
-📄 See my full CV below 👇
 
 </div>
 
