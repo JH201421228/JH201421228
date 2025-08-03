@@ -1,57 +1,9 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JH%20Git&fontSize=90" />
-</div>
+<!-- 타이틀 부분 --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=JH%20Git&fontSize=90" /> </div> <!-- 소개 섹션 --> <h3 align="center">🧑‍💻 About Me</h3> <div align="center">
+🎯 Full-stack Software Engineer based in Busan, South Korea
+💼 Currently building AI-powered web platforms at <b>Bytesize</b>
+🧠 Passionate about <b>AI, real-time systems, and scalable software solutions</b>
+🛠 Skilled in <b>React, Spring Boot, Firebase, Python, C++, Docker, FastAPI</b>
+🌏 Languages: Korean (Native), English (Intermediate)
+📄 View my full CV
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=61DAFB" /> &nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=hackaday&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffd35b" />&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Git Stats 📚</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical" alt="GitHub stats">
-</div>
-
-<br>
-
-<h3 align="center">📫 Languages 📫</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact">
-</div>
-
-<br>
-
-<h3 align="center">✨ algorithm ✨</h3>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=741u741">
-</div>
+</div> <br> <!-- 기술 스택 --> <h3 align="center">✨ Tech Stack ✨</h3> <div align="center"> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp; <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp; <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp; </div> <div align="center"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp; <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp; <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=61DAFB" /> &nbsp; </div> <div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffdd54" />&nbsp; <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=hackaday&logoColor=61DAFB" />&nbsp; <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffd35b" />&nbsp; </div> <br> <!-- 툴 --> <h3 align="center">🛠 Tools 🛠</h3> <div align="center"> <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp; <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp; </div> <br> <!-- Git 통계 --> <h3 align="center">📚 Git Stats 📚</h3> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JH201421228&show_icons=true&theme=radical" alt="GitHub stats"> </div> <br> <h3 align="center">📫 Languages 📫</h3> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH201421228&layout=compact"> </div> <br> <!-- 알고리즘 --> <h3 align="center">✨ Algorithm ✨</h3> <div align="center"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=741u741"> </div>
