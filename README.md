@@ -74,9 +74,6 @@
 
 ### 📄 CV
 
-<details>
-<summary><b>클릭하여 열기</b></summary>
-
 <br>
 
 <h4>🧑‍💻 Profile</h4>
@@ -160,5 +157,3 @@ Mar 2014 – Feb 2021
 - Email: 741u741@naver.com  
 - GitHub: [https://github.com/JH201421228](https://github.com/JH201421228)  
 - Location: Yeongdo-gu, Busan, South Korea
-
-</details>
