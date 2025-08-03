@@ -77,6 +77,7 @@
 <br>
 
 <h4>🧑‍💻 Profile</h4>
+
 Detail-oriented and growth-driven Software Engineer  
 Background in Mechanical Engineering and full-stack web development  
 Experienced in web, mobile, IoT, AI, and real-time systems  
@@ -85,12 +86,14 @@ Strong problem-solving and communication skills
 ---
 
 <h4>🎓 Education</h4>
+
 **Pusan National University**, B.S. in Mechanical Engineering  
 Mar 2014 – Feb 2021
 
 ---
 
 <h4>📜 Certifications</h4>
+
 - OPIC (Speaking): IH (Mar 2024)  
 - Engineer (Mechanical): Korea Industrial Human Resources Corp. (Aug 2021)  
 - ERP Production & Logistics Manager Level 1: Korea Productivity Center (Aug 2021)  
@@ -99,6 +102,7 @@ Mar 2014 – Feb 2021
 ---
 
 <h4>🧠 Skills</h4>
+
 - **Languages:** JavaScript, Python, Java  
 - **Frontend:** React, React Native, Redux, CSS, Next.js  
 - **Backend:** Spring Boot, Firebase, Docker  
@@ -108,8 +112,11 @@ Mar 2014 – Feb 2021
 ---
 
 <h4>💼 Experience</h4>
+
 **Bytesize** — Full-stack Software Engineer  
+
 *Sep 2024 – Present | Busan, South Korea*  
+
 - Built and maintained full-stack AI-powered platforms with React, FastAPI, Vite  
 - Engineered data pipelines for web crawling and preprocessing  
 - Collaborated cross-functionally to optimize features and scalability
@@ -117,7 +124,8 @@ Mar 2014 – Feb 2021
 ---
 
 <h4>🛠 Project Experience</h4>
-- **Sinabro — Web IDE Development**  
+
+- **Sinabro — Web IDE Development**
   *Samsung SW Academy (SSAFY) | Apr 2024 – May 2024*  
   Real-time collaborative IDE using React, Firebase, OpenVidu  
   Implemented video call, live coding, and CI/CD via Docker  
@@ -136,11 +144,13 @@ Mar 2014 – Feb 2021
 ---
 
 <h4>🏅 Awards</h4>
+
 - Excellent Project Award, Samsung SW Academy — 3회 수상 (2024)
 
 ---
 
 <h4>📘 Training</h4>
+
 - **Samsung SW Academy For Youth (SSAFY)**  
   Jul 2023 – Jun 2024  
   1-year intensive full-stack software engineering bootcamp
@@ -148,12 +158,14 @@ Mar 2014 – Feb 2021
 ---
 
 <h4>🌐 Languages</h4>
+
 - Korean: Native  
 - English: Intermediate
 
 ---
 
 <h4>📬 Contact</h4>
+
 - Email: 741u741@naver.com  
 - GitHub: [https://github.com/JH201421228](https://github.com/JH201421228)  
 - Location: Yeongdo-gu, Busan, South Korea
