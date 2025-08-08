@@ -96,7 +96,7 @@ Mar 2014 – Feb 2021
 - OPIC (Speaking): IH (Mar 2024)  
 - Engineer (Mechanical): Korea Industrial Human Resources Corp. (Aug 2021)  
 - ERP Production & Logistics Manager Level 1: Korea Productivity Center (Aug 2021)  
-- Computer Literacy Level 1: KCCI (Apr 2021)
+- Computer Specialist in Spreadsheet & Database Level 1: KCCI (Apr 2021)
 
 ---
 
